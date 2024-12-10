@@ -28,7 +28,7 @@ Install the font on your system so it can be accessed by the game.
 
 Download the project folder to your computer.
 Open the folder in a Python-compatible IDE such as VS Code.
-Navigate to the main script file (e.g., main.py) in your IDE.
+Navigate to main.py in your IDE.
 Run the file by pressing IDE’s “Run” command (for VS Code it is Command+B).
 
 Please keep all project files (assets and src) in their original folders. The game requires specific directory paths to load images and sounds.
